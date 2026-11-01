@@ -223,4 +223,4 @@ IP-TV Player is offered as a full free version with all features and updates inc
 Download IP-TV Player today and transform your Windows PC into a powerful multimedia hub! Enjoy seamless streaming and playback with the full version, completely free.
 
 ---
-**Last updated:** 2026-11-01 15:40:14 UTC
+**Last updated:** 2026-11-01 20:03:37 UTC
